@@ -1,5 +1,5 @@
 # Cifar10_Classification_avec_Tensorflom
-Implémentation d'un algorithme de deep learning pour la classification des image Cifar10
+Implémentation d'un algorithme de deep learning pour la classification des images Cifar10
 
 # Utilisation
 Libraries
